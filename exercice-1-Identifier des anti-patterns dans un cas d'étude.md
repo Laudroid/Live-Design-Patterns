@@ -70,18 +70,6 @@ Votre mission est d'analyser cette situation, d'identifier les mauvaises pratiqu
 
 ---
 
-**Conseils pour l'utilisation de l'IA :**
-
-L'IA est un excellent assistant, mais pas un remplaçant de votre réflexion critique. Utilisez-la pour :
-*   **Générer des idées** d'anti-patterns ou de Design Patterns pertinents.
-*   **Demander des exemples** de refactoring pour un anti-pattern donné.
-*   **Comparer différentes approches** pour résoudre un problème.
-*   **Reformuler ou clarifier** vos explications.
-
-**Attention :** Ne vous contentez pas de copier-coller les réponses de l'IA. Votre valeur ajoutée réside dans votre capacité à analyser la situation spécifique, à choisir la meilleure solution et à la justifier de manière pertinente. Demandez toujours à l'IA "Pourquoi cette solution est-elle meilleure ?" ou "Quels sont les inconvénients de cette approche ?".
-
----
-
 **Rendu :**
 
 Un document clair et structuré (format PDF, Markdown ou Word) présentant votre analyse, vos propositions et vos justifications.
