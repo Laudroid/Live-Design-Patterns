@@ -170,30 +170,4 @@ En groupe, analysez le code `PromotionManager` et discutez des points suivants :
 5.  **Limites et Compromis :**
     *   Y a-t-il des inconvénients ou des compromis à votre nouvelle conception (par exemple, complexité accrue pour des cas très simples, performance, etc.) ?
 
-### Consignes pour l'Utilisation de l'IA
-
-L'utilisation d'outils d'IA (ChatGPT, Copilot, etc.) est autorisée et même encouragée pour ce TP. Cependant, gardez à l'esprit que l'IA est un assistant, pas un remplaçant de votre réflexion critique.
-
-*   **Utilisez l'IA pour :**
-    *   **Brainstorming :** Demandez-lui des idées de patterns pour un problème donné.
-    *   **Explication de concepts :** Si un pattern n'est pas clair, demandez-lui des explications ou des exemples.
-    *   **Génération de code :** Une fois que vous avez une idée claire de la solution, demandez-lui de générer un squelette de code pour vous aider à démarrer.
-    *   **Analyse initiale :** Vous pouvez lui demander d'identifier des "code smells" dans le code fourni.
-
-*   **Ne vous contentez pas de :**
-    *   **Copier-coller aveuglément :** L'objectif est de comprendre et de justifier vos choix. Le code généré par l'IA doit être compris, critiqué et adapté par vous.
-    *   **Laisser l'IA faire tout le travail :** La discussion de groupe et la justification de vos décisions sont au cœur de ce TP.
-
-*   **Soyez critique :** Les réponses de l'IA ne sont pas toujours parfaites ou optimales. Discutez de ses suggestions en groupe et évaluez leur pertinence.
-
-### Livrables
-
-À la fin du TP, chaque groupe devra présenter :
-
-1.  Un résumé des problèmes identifiés dans le code initial.
-2.  Le ou les Design Patterns choisis, avec une justification claire.
-3.  Une description architecturale (diagrammes simples, pseudo-code ou description textuelle) de la refactorisation proposée.
-4.  Une discussion des avantages et inconvénients de la nouvelle conception, y compris la manière dont elle gère l'extensibilité.
-5.  Un bref retour sur la manière dont l'IA a été utilisée par le groupe, et si elle a été utile ou non pour certaines étapes.
-
 Bon travail à toutes et à tous !
